@@ -19,7 +19,7 @@ Trabalhei com componentes de cabeçalho, de rodapé e de conteúdo; dividindo as
 
 Work carried out with the React Js framework, using Typescript, HTML5, CSS3 and Flexbox.
 
-Calculator that performs basic mathematics calculations, such as: addition, subtraction, multiplication and division; and configured to avoid errors. The number of digits is a maximum of 16. Calculations are performed using the JavaScript EVAL function and adapts to desktop and mobile.
+Calculator that performs basic mathematics calculations, such as: addition, subtraction, multiplication and division; and configured to avoid errors. The number of digits is a maximum of 16. Calculations are carried out using the JavaScript EVAL function and adapts to desktop and mobile.
 
 I worked with header, footer and content components; dividing responsibilities.
 
