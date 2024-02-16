@@ -11,7 +11,7 @@ Projeto: [Clique e acesse o projeto em Angular](https://)
 
 Trabalho realizado com o framework React Js, com uso de Typescript, HTML5, CSS3 e Flexbox. 
 
-Calculadora que faz os cálculos básicos da matemática, como: soma, subtração, multiplicação e divisão; e configurada para evitar erros. A quantidade de dígitos é de no máximo 16. Os cálculos são realizados pela função EVAL do javascript e adapta em desktop e mobile.
+Calculadora que faz os cálculos básicos da matemática, como: soma, subtração, multiplicação e divisão; e configurada para evitar erros. A quantidade de dígitos é de no máximo 16. Os cálculos são realizados pela função EVAL do javascript e se adapta em desktop e mobile.
 
 Trabalhei com componentes de cabeçalho, de rodapé e de conteúdo; dividindo as responsabilidades.
 
