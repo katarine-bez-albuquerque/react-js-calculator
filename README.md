@@ -1,6 +1,6 @@
 # **Calculator**
 
-[![NPM License](https://img.shields.io/npm/l/react)]()
+[![NPM License](https://img.shields.io/npm/l/react)](https://github.com/katarine-bez-albuquerque/react-js-calculator/blob/main/LICENSE)
 
 
 <img width="100%" src="./imagens/banner.png" alt="Banner"/>
