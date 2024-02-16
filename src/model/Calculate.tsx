@@ -19,7 +19,11 @@ export class Calculate {
     // Definir valor
     // Set value
     setValue(val: string) {
-        this.value += val;
+        // Máximo de 16 dígitos
+        // Maximum 16 digits!
+        if(this.value.length <= 16) {
+            this.value += val;
+        }
     }
 
     // Obter valor
