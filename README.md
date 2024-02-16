@@ -7,7 +7,7 @@
 
 ## Sobre o projeto
 
-Projeto: [Clique e acesse o projeto em Angular](https://)
+Clique e acesse o projeto: [calculator-react](https://react-js-calculator-omega.vercel.app/)
 
 Trabalho realizado com o framework React Js, com uso de Typescript, HTML5, CSS3 e Flexbox. 
 
