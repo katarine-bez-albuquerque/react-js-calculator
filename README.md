@@ -23,7 +23,7 @@ Calculator that performs basic mathematics calculations, such as: addition, subt
 
 I worked with header, footer and content components; dividing responsibilities.
 
-## Layout Web
+## Layout Mobile
 
 <img width="250" src="./imagens/layout.png" alt="Layouts"/>
 
@@ -35,7 +35,7 @@ I worked with header, footer and content components; dividing responsibilities.
 * Typescript
 * React Js
 
-## Instalar
+## Instalação
 
 ##### Instalar Dependências
 <pre><code>npm install</code></pre>
